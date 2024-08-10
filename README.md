@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @MohammedHaider1786
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MohammedHaider1786/MohammedHaider1786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+<head>
+Introduction of Mohammed Haider
+</head>
+<body>
+Hi. My name is Mohammed Haider.<br>
+I am a student of class 9.<br>
+My hobbies are Coding, playing games like Fortnite and playing football
+</body>
+</html>
